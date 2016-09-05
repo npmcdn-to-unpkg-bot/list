@@ -296,7 +296,7 @@
 ||nibblebit.com
 ||nimplus.com
 ||now.com^
-||npmcdn.com
+||unpkg.com
 ||nuderdudeblog.com
 ||nydailynews.com
 ||nytimes.com
